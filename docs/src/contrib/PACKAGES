@@ -1,7 +1,0 @@
-Package: infomapecology
-Version: 2.0
-Depends: R (>= 4.1.0), attempt, cowplot, ggalluvial, magrittr, dplyr, readr, ggplot2, stringr, tibble, tidyr, rlang, igraph, vegan, emln
-Suggests: bipartite
-License: GPL
-MD5sum: b822498d9e4a9995842ba1c4b5077727
-NeedsCompilation: no
