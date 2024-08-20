@@ -1,6 +1,6 @@
 ## Read me
 
-This drat repository contains a copy of the `infomapecology` r package (version 1.0.6) and was created to help the `PhysMove` R package meet CRAN requirements.
+This drat repository contains a copy of the `infomapecology` r package (version 2.0) and was created to help the `PhysMove` R package meet CRAN requirements.
 
 Anyone looking to download the `infomapecology` r package should follow this link for the most up-to-date version:
 
