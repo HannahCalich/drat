@@ -1,13 +1,11 @@
-<<<<<<< HEAD
 Package: emln
 Version: 1.0
 Depends: R (>= 4.1.0), magrittr, stringr, igraph, tibble, dplyr, purrr, tidyr, Matrix, DT, hablar
 Suggests: bipartite
 License: CC BY 4.0
-=======
+
 Package: infomapecology
 Version: 2.0
 Depends: R (>= 4.1.0), attempt, cowplot, ggalluvial, magrittr, dplyr, readr, ggplot2, stringr, tibble, tidyr, rlang, igraph, vegan, emln
 Suggests: bipartite
-License: GPL
->>>>>>> e2605266d7ca202de0200ecd825fedede35aa939
+License: GP
